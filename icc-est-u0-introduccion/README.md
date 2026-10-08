@@ -12,4 +12,4 @@ Hoy cree el proyecto de java y funciono todo
 Fecha: 08 de octubre
 
 Adicione el metodo de busqueda
-![alt text](image.png)
+![alt text](../assets/resultado.png)
